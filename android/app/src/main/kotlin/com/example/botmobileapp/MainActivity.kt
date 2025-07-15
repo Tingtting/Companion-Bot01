@@ -1,4 +1,4 @@
-package com.example.bot01
+package com.example.botmobileapp
 
 import io.flutter.embedding.android.FlutterActivity
 

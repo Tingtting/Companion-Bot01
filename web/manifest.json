@@ -1,6 +1,6 @@
 {
-    "name": "bot01",
-    "short_name": "bot01",
+    "name": "botmobileapp",
+    "short_name": "botmobileapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
