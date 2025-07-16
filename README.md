@@ -20,6 +20,7 @@ A Flutter-based chatbot app.
 Run the following commands in your terminal:
 - flutter clean
 - flutter pub get
+  
 Then launch the app from: lib/main.dart
 You can run it via your IDE or use command: flutter run
 
