@@ -1,4 +1,4 @@
-# botmobileapp
+# Companion Bot
 
 A Flutter-based chatbot app.
 
